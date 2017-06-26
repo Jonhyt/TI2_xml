@@ -17,7 +17,7 @@
 			<link site="Bastille Site" logo="bastilleSite.jpg" url="http://www.bastillebastille.com/"/>
 		</links>
 		<membros>
-			<membro nome="Dan Smith" foto="bastille_danSmith.jpg" anoEntrada="2010" anoSaida="N/A">
+			<membro nome="Dan Smith" foto="bastille_danSmith.jpg" dataEntrada="2010" dataSaida="N/A">
 				<funcao>lead vocals</funcao>
 				<funcao>piano</funcao>
 				<funcao>keyboards</funcao>
@@ -45,7 +45,7 @@
 		<discografia>
 			<album titulo="Bad Blood" imagem="bastille_badBlood.jpg" ano="2013">
 				<links>
-          <!-- link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Bad-Blood-Bastille/dp/B00DV3A84G/ref=sr_1_1?s=music&ie=UTF8&qid=1495451801&sr=1-1&keywords=bad+blood+bastille" /-->
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Bad-Blood-Bastille/dp/B00DV3A84G/ref=sr_1_1?s=music&amp;ie=UTF8&amp;qid=1495451801&amp;sr=1-1&amp;keywords=bad+blood+bastille" />
 					<link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/bad-blood/id672945248" />
 				</links>
 				<faixas>
