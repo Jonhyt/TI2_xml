@@ -102,6 +102,18 @@ function getSiteLogoBanda(b) {
     return "img/" + banda.getElementsByTagName("link")[2].getAttribute("logo");
 }
 
+//numero de paragrafos da biografia de uma banda
+function numParBio(b) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("biografia")[0];
+    return banda.getElementsByTagName("par").length;
+}
+
+//paragrafo da biografia de uma banda
+function getParBio(b,p) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("biografia")[0];
+    return banda.getElementsByTagName("par")[p].childNodes[0].nodeValue;
+}
+
 //MEMBROS
 //numero de membros da banda
 function numMembros(b) {
@@ -149,3 +161,158 @@ function getFuncMembro(b, m, f) {
 
 //ALBUNS
 //numero de albuns de uma banda
+function numAlbum(b) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    return banda = docXML.getElementsByTagName("album").length;
+}
+
+//titulo de um album de uma banda
+function getTituloAlbum(b, a) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    return docXML.getElementsByTagName("album")[a].getAttribute("titulo");
+}
+
+//ano de um album de uma banda
+function getAnoAlbum(b, a) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    return docXML.getElementsByTagName("album")[a].getAttribute("ano");
+}
+
+//imagem de um album de uma banda
+function getImgAlbum(b, a) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    return "img/" + docXML.getElementsByTagName("album")[a].getAttribute("imagem");
+}
+
+//link da Amazon de um album de uma banda
+function getAmazonAlbum(b, a) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("links")[0];
+    return album.getElementsByTagName("link")[0].getAttribute("url");
+}
+
+//link do iTunes de um album de uma banda
+function getiTunesAlbum(b, a) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("links")[0];
+    return album.getElementsByTagName("link")[1].getAttribute("url");
+}
+
+
+//logo da Amazon
+function getAmazonLogo() {
+    var banda = docXML.getElementsByTagName("banda")[0].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[0].getElementsByTagName("links")[0];
+    return "img/" + album.getElementsByTagName("link")[0].getAttribute("logo");
+}
+
+//logo do iTunes
+function getiTunesLogo() {
+    var banda = docXML.getElementsByTagName("banda")[0].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[0].getElementsByTagName("links")[0];
+    return "img/" + album.getElementsByTagName("link")[1].getAttribute("logo");
+}
+
+//FAIXAS
+//numero de faixas de um album
+function numFaixas(b, a) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    return album.getElementsByTagName("faixa").length;
+}
+
+//titulo de uma faixa de um album
+function getTituloFaixa(b, a, f) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    return album.getElementsByTagName("faixa")[f].getAttribute("titulo");
+}
+
+//duracao (em segundos) de uma faixa de um album
+function getDurFaixa(b, a, f) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    return album.getElementsByTagName("faixa")[f].getAttribute("duracao");
+}
+
+//link do youtube de uma faixa de um album
+function getYtFaixa(b, a, f) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("links")[0];
+    return faixa.getElementsByTagName("link")[0].getAttribute("url");
+}
+
+//link do spotify de uma faixa de um album
+function getSpotFaixa(b, a, f) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("links")[0];
+    return faixa.getElementsByTagName("link")[1].getAttribute("url");
+}
+
+//logo do spotify
+function getSpotLogo() {
+    var banda = docXML.getElementsByTagName("banda")[0].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[0].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[0].getElementsByTagName("links")[0];
+    return faixa.getElementsByTagName("link")[1].getAttribute("logo");
+}
+
+//numero de generos de uma faixa de um album
+function getSpotFaixa(b, a, f) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("generos")[0];
+    return faixa.getElementsByTagName("genero").length;
+}
+
+//numero de generos de uma faixa de um album
+function numGenFaixa(b, a, f) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("generos")[0];
+    return faixa.getElementsByTagName("genero").length;
+}
+
+//um dos generos de uma faixa de um album
+function getGenFaixa(b, a, f, g) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("generos")[0];
+    return faixa.getElementsByTagName("genero")[g].childNodes[0].nodeValue;
+}
+
+//um dos generos de uma faixa de um album
+function getGenFaixa(b, a, f, g) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("generos")[0];
+    return faixa.getElementsByTagName("genero")[g].childNodes[0].nodeValue;
+}
+
+//numero de quadras de uma faixa de um album
+function numQuad(b, a, f) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("letra")[0];
+    return faixa.getElementsByTagName("quadra").length;
+}
+
+//numero de versos de uma quadra de uma faixa de um album
+function numVersos(b, a, f, q) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("letra")[0];
+    var quadra = faixa.getElementsByTagName("quadra")[q];
+    return quadra.getElementsByTagName("verso").length;
+}
+
+//verso de uma quadra de uma faixa de um album
+function getVerso(b, a, f, q, v) {
+    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
+    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
+    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("letra")[0];
+    var quadra = faixa.getElementsByTagName("quadra")[q];
+    return quadra.getElementsByTagName("verso")[v].childNodes[0].nodeValue;
+}
