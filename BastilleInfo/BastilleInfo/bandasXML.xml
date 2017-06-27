@@ -17,24 +17,24 @@
 			<link site="Bastille Site" logo="bastilleSite.jpg" url="http://www.bastillebastille.com/"/>
 		</links>
 		<membros>
-			<membro nome="Dan Smith" foto="bastille_danSmith.jpg" dataEntrada="2010" dataSaida="N/A">
+			<membro nome="Dan Smith" foto="bastille_danSmith.jpg" dataEntrada="2010" dataSaida="Present">
 				<funcao>lead vocals</funcao>
 				<funcao>piano</funcao>
 				<funcao>keyboards</funcao>
 			</membro>
-			<membro nome="Chris «Woody» Wood" foto="bastille_woody.jpg" dataEntrada="2010" dataSaida="N/A">
+			<membro nome="Chris «Woody» Wood" foto="bastille_woody.jpg" dataEntrada="2010" dataSaida="Present">
 				<funcao>drums</funcao>
 				<funcao>percussion</funcao>
 				<funcao>backing vocals</funcao>
 			</membro>
-			<membro nome="Kyle Simmons" foto="bastille_kyleSimmons.jpg" dataEntrada="2010" dataSaida="N/A">
+			<membro nome="Kyle Simmons" foto="bastille_kyleSimmons.jpg" dataEntrada="2010" dataSaida="Present">
 				<funcao>piano</funcao>
 				<funcao>keyboards</funcao>
 				<funcao>backing vocals</funcao>
 				<funcao>bass</funcao>
 				<funcao>guitar</funcao>
 			</membro>
-			<membro nome="Will Farquarson" foto="bastille_willFarquarson.jpg" dataEntrada="2010" dataSaida="N/A">
+			<membro nome="Will Farquarson" foto="bastille_willFarquarson.jpg" dataEntrada="2010" dataSaida="Present">
 				<funcao>piano</funcao>
 				<funcao>keyboards</funcao>
 				<funcao>backing vocals</funcao>
@@ -51,8 +51,8 @@
 				<faixas>
 					<faixa titulo="Pompei" duracao="214">
 						<links>
-							<link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=F90Cw4l-8NY" />
 							<link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0sooJd5WbNnnz5k6yO7FIQ" />
+							<link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=F90Cw4l-8NY" />
 						</links>
 						<generos>
 							<genero>Indie Pop</genero>
@@ -948,7 +948,7 @@
 					</faixa>
 				</faixas>
 			</album>
-			<album titulo="VS. (Other People's Heartache, Pt. III)" imagem="bastille_vs.jpg" ano="2014" editora="Virgin Records">
+			<album titulo="VS. (Other People's Heartache, Pt. III)" imagem="bastille_vs.jpg" ano="2014">
 				<links>
 					<link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.co.uk/VS-Other-Peoples-Heartache-Explicit/dp/B00OLBZ8M4" />
 					<link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/vs-other-peoples-heartache-pt-iii/id931281859" />
@@ -1539,7 +1539,7 @@
 					</faixa>
 				</faixas>
 			</album>
-			<album titulo="Wild World" imagem="bastille_wildWorld.jpg" ano="2016" editora="Virgin">
+			<album titulo="Wild World" imagem="bastille_wildWorld.jpg" ano="2016">
 				<links>
 					<link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Wild-World-Bastille/dp/B01HQZY926" />
 					<link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/wild-world/id1127933001" />

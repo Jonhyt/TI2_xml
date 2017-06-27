@@ -240,7 +240,7 @@ function getYtFaixa(b, a, f) {
     var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
     var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
     var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("links")[0];
-    return faixa.getElementsByTagName("link")[0].getAttribute("url");
+    return faixa.getElementsByTagName("link")[1].getAttribute("url");
 }
 
 //link do spotify de uma faixa de um album
@@ -248,7 +248,7 @@ function getSpotFaixa(b, a, f) {
     var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
     var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
     var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("links")[0];
-    return faixa.getElementsByTagName("link")[1].getAttribute("url");
+    return faixa.getElementsByTagName("link")[0].getAttribute("url");
 }
 
 //logo do spotify
@@ -256,7 +256,7 @@ function getSpotLogo() {
     var banda = docXML.getElementsByTagName("banda")[0].getElementsByTagName("discografia")[0];
     var album = docXML.getElementsByTagName("album")[0].getElementsByTagName("faixas")[0];
     var faixa = album.getElementsByTagName("faixa")[0].getElementsByTagName("links")[0];
-    return faixa.getElementsByTagName("link")[1].getAttribute("logo");
+    return "img/" + faixa.getElementsByTagName("link")[0].getAttribute("logo");
 }
 
 //numero de generos de uma faixa de um album
