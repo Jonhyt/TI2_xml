@@ -260,14 +260,6 @@ function getSpotLogo() {
 }
 
 //numero de generos de uma faixa de um album
-function getSpotFaixa(b, a, f) {
-    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
-    var album = banda.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
-    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("generos")[0];
-    return faixa.getElementsByTagName("genero").length;
-}
-
-//numero de generos de uma faixa de um album
 function numGenFaixa(b, a, f) {
     var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
     var album = banda.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
