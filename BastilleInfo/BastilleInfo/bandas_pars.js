@@ -290,29 +290,3 @@ function getGenFaixa(b, a, f, g) {
     var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("generos")[0];
     return faixa.getElementsByTagName("genero")[g].childNodes[0].nodeValue;
 }
-
-//numero de quadras de uma faixa de um album
-function numQuad(b, a, f) {
-    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
-    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
-    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("letra")[0];
-    return faixa.getElementsByTagName("quadra").length;
-}
-
-//numero de versos de uma quadra de uma faixa de um album
-function numVersos(b, a, f, q) {
-    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
-    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
-    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("letra")[0];
-    var quadra = faixa.getElementsByTagName("quadra")[q];
-    return quadra.getElementsByTagName("verso").length;
-}
-
-//verso de uma quadra de uma faixa de um album
-function getVerso(b, a, f, q, v) {
-    var banda = docXML.getElementsByTagName("banda")[b].getElementsByTagName("discografia")[0];
-    var album = docXML.getElementsByTagName("album")[a].getElementsByTagName("faixas")[0];
-    var faixa = album.getElementsByTagName("faixa")[f].getElementsByTagName("letra")[0];
-    var quadra = faixa.getElementsByTagName("quadra")[q];
-    return quadra.getElementsByTagName("verso")[v].childNodes[0].nodeValue;
-}

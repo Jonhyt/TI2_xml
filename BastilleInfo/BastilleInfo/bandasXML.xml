@@ -1226,7 +1226,715 @@
       </par>
     </biografia>
   </banda>
-  
+  <banda nome="Imagine Dragons" imagem="dragons.jpg">
+    <links>
+      <link site="Wikipedia" logo="wikipediaLogo.jpg" url="https://en.wikipedia.org/wiki/Imagine_Dragons" />
+      <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/user/ImagineDragonsVEVO" />
+      <link site="Imagine Dragons Site" logo="dragonsLogo.jpg" url="https://www.imaginedragonsmusic.com/" />
+    </links>
+    <membros>
+      <membro nome="Dan Reynolds" foto="dan_Dragons.jpg" dataEntrada="2008" dataSaida="Present">
+        <funcao>lead vocals</funcao>
+        <funcao>rhythm guitar</funcao>
+        <funcao>piano</funcao>
+        <funcao>keyboards</funcao>
+        <funcao>drums</funcao>
+        <funcao>percussion</funcao>
+      </membro>
+      <membro nome="Wayne Sermon" foto="wayne_Dragons.jpg" dataEntrada="2009" dataSaida="Present">
+        <funcao>lead guitar</funcao>
+        <funcao>backing vocals</funcao>
+        <funcao>mandolin</funcao>
+      </membro>
+      <membro nome="Ben McKee" foto="ben_Dragons.jpg" dataEntrada="2009" dataSaida="Present">
+        <funcao>bass</funcao>
+        <funcao>backing vocals</funcao>
+        <funcao>piano</funcao>
+        <funcao>keyboards</funcao>
+        <funcao>synthesizers</funcao>
+      </membro>
+      <membro nome="Daniel Platzman" foto="daniel_Dragons.jpg" dataEntrada="2011" dataSaida="Present">
+        <funcao>drums</funcao>
+        <funcao>backing vocals</funcao>
+        <funcao>percussion</funcao>
+        <funcao>rhythm guitar</funcao>
+        <funcao>synthesizers</funcao>
+        <funcao>viola</funcao>
+        <funcao>keyboards</funcao>
+      </membro>
+    </membros>
+    <discografia>
+      <album titulo="Night Visions" imagem="nightVisions_Dragons.jpg" ano="2012" editora="Various">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Night-Visions-Imagine-Dragons/dp/B008K9SG9K" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/night-visions/id555694735" />
+        </links>
+        <faixas>
+          <faixa titulo="Radioactive" duracao="186">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=ktvTqknDobU" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Tiptoe" duracao="274">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7lBPn6LpIvbvAihTRvBMig" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=ajjj4pLnjz8" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="It's Time" duracao="240">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=sENM2wA_FTg" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Demons" duracao="237">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=mWRsgZuwf_8" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="On Top Of The World" duracao="192">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=w5tWYmIOWGk" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Amsterdam" duracao="241">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5gXdinVZqeuDIVxogWzRk0" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=TKtPXO5iEnA" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Hear Me" duracao="235">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2OgOgEBfiZEj2XlIY2XD7f" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=1Yr683VLxes" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Every Night" duracao="217">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5raubQ8TVZTJO1PFs2bpwq" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=kuijhOvKyYg" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Bleedout" duracao="223">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1oQjPp1I7cwVE24JivbhzT" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=gJEoxeW7JvQ" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Underdoggo" duracao="209">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/25dAGIi1Psxz5kzlNelPLN" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=JCUV43T7HZ0" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+      <album titulo="Smoke + Mirrors" imagem="smokeMirros_Dragons.jpg" ano="" editora="">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Smoke-Mirrors-Imagine-Dragons/dp/B00QXKB7X0" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/smoke-mirrors-deluxe/id1043732083" />
+        </links>
+        <faixas>
+          <faixa titulo="Shots" duracao="232">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/13rCBXMn31UOIXZBcjCOR3" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=qQrgto184Tk" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Gold" duracao="216">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6t7JWOqpPfzWGt51avo8H4" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=Rl3ELiPXFRo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Smoke and Mirrors" duracao="260">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7fKnhuW1DlUWkKg5SeqSLX" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=VDPnaTQF6Dw" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="I'm So Sorry" duracao="230">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0lbx84jPyJ9JKidRcrccgZ" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=D0gddT_DDzQ" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="I Bet My Life" duracao="192">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0MbUlBzQuj4ayI1SGKJJep" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=4ht80uzIhNs" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Polariod" duracao="192">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5PBN3LsygMZLT2mvgACZlr" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=wmjyO-r1OhA" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Friction" duracao="201">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/36UWrB0wlIUPuPDwH8JCa3" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=o0aoh363PI4" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="It Comes Back To You" duracao="217">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7v2kIB8OoOIpF0o3P8ZXvn" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=xKkkIxSQ9wE" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Dreams" duracao="258">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5hfKkcfjPlXvG4pSRJaPik" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=BWu7JDETw_I" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Trouble" duracao="217">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2QX8fdouf5uSZVXZh97RcL" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=k4l5SLs5u8A" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Summer" duracao="218">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6zM6FzZdnALCNXfW2dosao" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=kTsbz5fW8-M" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Hopless Opus" duracao="238">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/4yq2pwKWZmMODbJDTy45NP" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=QGnTR_oEFt4" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="The Fall" duracao="362">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/42XaFrbjspn6Wkrv0bIhXg" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=8MWglxkw1y4" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+      <album titulo="ƎVOLVE" imagem="evolve_Dragons.jpg" ano="2017" editora="Interscope">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Evolve-Imagine-Dragons/dp/B07143J5MM/ref=pd_bxgy_15_img_2?_encoding=UTF8&amp;psc=1&amp;refRID=3NT47X08C6AF54MFP9ZH" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/evolve/id1233502263" />
+        </links>
+        <faixas>
+          <faixa titulo="I Don't Know Why" duracao="190">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/15dnkAHcHC0vrIUlbiPiqU" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=izhxTx4LVWo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+              <genero>House</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Whatever It Takes" duracao="201">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/4IWAyPf1KMq7JCyGeCjTeH" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=rGlEZpOVjGo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+              <genero>Rap</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Beliver" duracao="204">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=7wtfhZwyrcc" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Walking The Wire" duracao="234">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6jmngk8Fwup05JZ6kgXEGX" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=1nv9br7P7g0" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Rise Up" duracao="231">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7vAXN57IQ0sj049wZGIboE" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=l7oOHT-1yxM" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+              <genero>House</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="I'll Make It Up To You" duracao="262">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/54h8xHewdRPnYzmbEHBhOO" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=Qc78efgHMqo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+              <genero>House</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Yesterday" duracao="205">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7nXk8UzwYn0bKNH8NVz6xO" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=LeaydhTew3U" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Mouth Of The River" duracao="221">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6dSKDp21S6I5UOhDqjw4kB" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=gJf9TMk6y-Y" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Start Over" duracao="306">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6Q9ue1D2FU489FD4Uln3SX" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=qCHzOFEkyZ8" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Dancing In The Dark" duracao="234">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5HvtbJxOYLSACcPuhf62wT" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=f242R8si7qU" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+    </discografia>
+    <biografia>
+      <par>
+        Imagine Dragons is an American rock band from Las Vegas, Nevada, consisting of lead vocalist Dan Reynolds, lead guitarist Wayne Sermon, bassist and keyboardist Ben McKee, and drummer Daniel Platzman. The band first gained exposure in 2012 with the releases of their debut studio album Night Visions and its first single "It's Time". Billboard placed them at the top of their "Year In Rock" rankings for 2013, and named them their "Breakthrough Band of 2013". Rolling Stone named their single "Radioactive" from Night Visions the "biggest rock hit of the year", and MTV called them "the year's biggest breakout band". Night Visions peaked at number two on the weekly US Billboard 200 chart and the UK Albums Chart. The band's second studio album Smoke + Mirrors was released in 2015, and reached number one in the US, Canada and the UK. After touring for their sophomore record, the band took a brief hiatus to focus on their personal lives. During the latter half of 2016, they began recording their third studio album, Evolve, released in 2017. While all three albums were commercially successful, critical reception was mixed.
+      </par>
+      <par>
+        Imagine Dragons has won two American Music Awards for Favorite Alternative Artist, a Grammy Award for Best Rock Performance, five Billboard Music Awards, and a World Music Award. In May 2014, the band was nominated for a total of fourteen different Billboard Music Awards, including Top Artist of the Year and a Milestone Award, which recognizes innovation and creativity of artists across different genres. Imagine Dragons have sold 9 million albums and 27 million singles worldwide.
+      </par>
+    </biografia>
+  </banda>
+  <banda nome="TWRP" imagem="twrp.jpg">
+    <links>
+      <link site="Wikipedia" logo="wikipediaLogo.jpg" url="http://www.allmusic.com/artist/twrp-mn0003591623/biography" />
+      <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/user/TWRPtube" />
+      <link site="TWRP Site" logo="twrpLogo.jpg" url="https://twrp.bandcamp.com/" />
+    </links>
+    <membros>
+      <membro nome="Doctor Sung" foto="sung_TWRP.jpg" dataEntrada="2011" dataSaida="Present">
+        <funcao>vocals</funcao>
+        <funcao>talk box</funcao>
+        <funcao>keytar</funcao>
+      </membro>
+      <membro nome="Lord Phobos" foto="phobos_TWRP.jpg" dataEntrada="2011" dataSaida="Present">
+        <funcao>guitar</funcao>
+      </membro>
+      <membro nome="Commander Meouch" foto="meouch_TWRP.jpg" dataEntrada="2011" dataSaida="Present">
+        <funcao>bass</funcao>
+      </membro>
+      <membro nome="Havve Hogan" foto="hogan_TWRP.jpg" dataEntrada="2011" dataSaida="Present">
+        <funcao>drums</funcao>
+      </membro>
+    </membros>
+    <discografia>
+      <album titulo="The Device" imagem="device_TWRP.jpg" ano="2015" editora="Independent">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/gp/product/B013RKSPAQ/ref=dm_ws_sp_ps_dp" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/the-device-ep/id1023614590" />
+        </links>
+        <faixas>
+          <faixa titulo="Prelude" duracao="86">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3BvPejrfGaGK05Jd3rAJWE" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=j5CKFyff4i4" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Computer Wife" duracao="260">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7MQppNMiujzmo4h0MRh134" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=X3rp-h69aTk" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Interstelar Strut" duracao="170">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/14k0Ekc0YxNn56OLtGJTLB" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=jLzULI84rLE" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="No Pants Dance" duracao="271">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/4jvhvClPrHxR6ozO0kcXSI" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=FP5BXlPhy8Y" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="The Device Pt 1" duracao="232">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3eSTEEI4PgnS5CiHDBEWFV" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=6xE72cKW5_4" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="The Device Pt 2" duracao="239">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0J6EdykQw1UTFc4wjhNjmv" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=0N9R8Q6cR7U" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+      <album titulo="Guardians of the Zone" imagem="guardians_TWRP.jpg" ano="2016" editora="Independent">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Guardians-Zone-Twrp/dp/B01EG0STMA" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/guardians-of-the-zone-ep/id1104884346" />
+        </links>
+        <faixas>
+          <faixa titulo="Time To Shine" duracao="160">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0pLKXolufs3kpPuxrR085Y" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=I-6UDp7uOIk" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Synth</genero>
+              <genero>Funk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Rock n Roll Best Friends" duracao="215">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0WOH3hD4pIw9YyTsiZFZ5j" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=0PHMkR-RHA8" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Synth</genero>
+              <genero>Funk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Making A Move" duracao="249">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1Ea64ROQHsFNdB1U0EqEgf" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=-RE6EuHyjU8" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Synth</genero>
+              <genero>Funk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="No Pants Dance (ft. NSP)" duracao="266">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1oljsr7HuLJxHdlC1cIxA2" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=YyGMsaGOjpc" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Synth</genero>
+              <genero>Funk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Business Tips" duracao="165">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2BjalCX3MMlfDWq6N4ZGXO" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=oUKLaPmvP84" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Synth</genero>
+              <genero>Funk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Groove Crusaders" duracao="260">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0TtNiDIU5UgxvGUHiJmXsx" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=VBxDiBxMF-g" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Synth</genero>
+              <genero>Eletro</genero>
+              <genero>Funk</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+      <album titulo="Ladyworld" imagem="ladyworld_TWRP.jpg" ano="2017" editora="Independent">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Ladyworld-Twrp/dp/B01N0XO2MN" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/ladyworld/id1192111721" />
+        </links>
+        <faixas>
+          <faixa titulo="Overture" duracao="96">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3bCk3fngYvnd2OPXUqSxcE" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=R1xAggBGqDE" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Ladyworld" duracao="257">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2bVBqvMa0ssrxdWNYpWqJK" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=xBYcwn8sa4E" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="R.E.S.P.E.C.T. Her" duracao="164">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5Btz2Ubj8P5gg3eZdeDabs" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=mZvMfIF8PFw" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Atomic Karate" duracao="241">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/59m6MeVQeeK9lucs8ZKOmp" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=V4tSXOLPf_4" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Body Image" duracao="261">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2Bro9LaruzR6FLyjizU1Pt" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=GK2aXhG3iqk" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Food Bar" duracao="199">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3HIK2cfukdovoKr8gRzYNx" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=JpaXl8CdwzM" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Built 4 Love (ft. NSP)" duracao="199">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5Q8IYNSjOjwzFGKMfmrAdK" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Funk</genero>
+              <genero>Eletro</genero>
+            </generos>
+          </faixa>
+          </faixas>
+      </album>
+    </discografia>
+    <biografia>
+      <par>Although they're based in Toronto, Canada, '80s-inspired synth rock/electro funk outfit TWRP ("Tupper Ware Remix Party") transcend time and space. Known for their wild live shows and unpretentious party music, TWRP was created by frontman, vocalist, and keytar wielder Doctor Sung, who was born around the time of the Big Bang. The 69th degree black belt recruited the group's second member, robot drummer Havve Hogan, sometime during the Mesozoic Era. The pair would not fully flesh out the band until much later, when the lion-headed, intergalactic, funk-smuggling humanoid Commander Meouch joined as TWRP's bassist and the fourth and final member, rocketeering Lord Phobos, filled the guitarist slot. Together, the four spandex-clad time-and-space travelers made their debut in 2011 with the "Lazerhorse" single, a combination of melodic chiptune and '80s hair metal. The following year, TWRP unveiled their first funky EP, The Device, which saw the quartet develop their sound in the direction of a Discovery-era Daft Punk cover band. A pair of EPs arrived in 2015. 2nite featured appearances by Skratch Bastid and NSP, an American duo who would become frequent collaborators with TWRP. Another NSP track was included on 2015's other EP, Believe in Your Dreams, which also featured White Hot Guilt. TWRP's first extended collaboration with NSP was released in 2016. The Under the Covers EP included their interpretations of '80s classics from a-ha, Tears for Fears, Van Halen, Michael Jackson, and others, with TWRP serving as the duo's backing band. TWRP released their fourth EP that year as well. Guardians of the Zone included "Rock n Roll Best Friends" and an updated version of The Device's "The No Pants Dance" that added NSP to the mix. In early 2017, their fifth effort arrived. Ladyworld debuted at number five on the Billboard Heatseekers chart.</par>
+    </biografia>
+  </banda>
 </bandas>
 
 <!--
