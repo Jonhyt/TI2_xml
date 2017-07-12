@@ -430,37 +430,803 @@
     <links>
       <link site="Wikipedia" logo="wikipediaLogo.jpg" url="https://en.wikipedia.org/wiki/Walk_the_Moon" />
       <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/user/WalkTheMoonVEVO" />
-      <link site="Walk the Moon" logo="walkTheMoonLogo.jpg" url="http://www.walkthemoonband.com/" />
+      <link site="Walk the Moon Site" logo="walkTheMoonLogo.jpg" url="http://www.walkthemoonband.com/" />
     </links>
     <membros>
-      <membro nome="" foto="" dataEntrada="" dataSaida="">
-        <funcao>funcao</funcao>
+      <membro nome="Nicholas Petricca" foto="nick_WTM.jpg" dataEntrada="2008" dataSaida="Present">
+        <funcao>lead vocals</funcao>
+        <funcao>keyboards</funcao>
+        <funcao>synthesizer</funcao>
       </membro>
-		</membros>
+      <membro nome="Kevin Ray" foto="kevin_WTM.jpg" dataEntrada="2010" dataSaida="Present">
+        <funcao>bass</funcao>
+        <funcao>backing vocals</funcao>
+        <funcao>guitar</funcao>
+      </membro>
+      <membro nome="Sean Waugaman" foto="sean_WTM.jpg" dataEntrada="2010" dataSaida="Present">
+        <funcao>drums</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+      <membro nome="Eli Maiman" foto="eli_WTM.jpg" dataEntrada="2011" dataSaida="Present">
+        <funcao>guitar</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+    </membros>
     <discografia>
-      <album titulo="" imagem="" ano="" editora="">
+      <album titulo="Walk the Moon" imagem="walkTheMoon_WTM.jpg" ano="2012" editora="RCA">
         <links>
-          <link site="Amazon" logo="amazonLogo.jpg" url="" />
-          <link site="iTunes" logo="iTunes.jpg" url="" />
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Walk-Moon/dp/B007VDWGJW/ref=ntt_mus_ep_dpi_2" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/id533488692?i=533488700" />
         </links>
         <faixas>
-          <faixa titulo="" duracao="">
+          <faixa titulo="Quesadilla" duracao="195">
             <links>
-              <link site="Spotify" logo="spotify.jpg" url="" />
-              <link site="YouTube" logo="youtube.jpg" url="" />
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2CdNHP8DJ5tfbRoIRdcTeE" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=98jijv5-xOg" />
             </links>
             <generos>
-              <genero>genero</genero>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Lisa Baby" duracao="232">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0obyZJdAvDvhtvudGsNjvS" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=4cqCpPSaY-I" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Next in Line" duracao="239">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2RSVYvx9kGLbyyJ4bmRMbc" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=9RAPtw_FkDo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Anna Sun" duracao="321">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=qDVW81bXo0s" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Tightrope" duracao="209">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/44psOy0D0SP8rcIiUgKgBs" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=gPedH9B8AAE" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Jenny" duracao="245">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7eMpW9I1ZpVs6VQ90naDBh" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=I7ar0wdK4vc" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Shiver Shiver" duracao="238">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/4LgIcna8LRrR3DOomihYMY" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=uD63wVc57A8" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Lion" duracao="35">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2gzDs0aRWhNdDVvFTL28gS" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=D8Gk5BXdU1Y" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Iscariot" duracao="323">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5urdl721ncXAFkuIwR9Mj5" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=fPQeMqiKqKs" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Fixin'" duracao="262">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5YJZgqCK7sgr07YZJOnfTY" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=8w0wFcByqs0" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="I Can Lift a Car" duracao="228">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6v6S5TvOsrPofUWst04BLF" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=Q03YOKrLTPo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+      <album titulo="Talking is Hard" imagem="talkingIsHard_WTM.jpg" ano="2014" editora="	RCA">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/TALKING-HARD-Walk-Moon/dp/B00OTLFGIM" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/talking-is-hard/id936832274" />
+        </links>
+        <faixas>
+          <faixa titulo="Different Colors" duracao="222">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=2QjqCJOPu-M" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Sidekick" duracao="175">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/4is9iORYOEafLbo79ODEkO" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=NXtLryriWeM" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Shut Up And Dance" duracao="199">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=6JCLY0Rlx6Q" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Up2U" duracao="201">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5OWZ4qbW7bYQTGIKRbSvxA" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=p4JMFtGCInM" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Avalanche" duracao="218">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3JxaZPq4UjkOaxnpyMUtAC" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=ECBhz_1AaSM" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Portugal" duracao="241">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3MYWKl8ScgDu3sAvyneMCG" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=X2_G9mfd2zY" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Down in the Dumps" duracao="285">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/40fCroW8wu8TdmW9A7k17z" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=WBLA0YQynFM" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Work This Body" duracao="175">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=qzkCk6-d8Oc" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Work This Body" duracao="175">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=qzkCk6-d8Oc" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Spend Your $$$" duracao="202">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/4crempk25OrH2OZqarABqv" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=N_b2dFsEVhc" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="We Are The Kids" duracao="217">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/24Rl1EUg5y9uym2rI3DL3r" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=HnQS0FGaBbg" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Come Under The Covers" duracao="231">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3RBLfzw7SoyiAcOncA37De" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=xsT4V2o1gHQ" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Aquaman" duracao="240">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/71wT7aMCFPYfzutF66OLac" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=VRVgptW7bYg" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
             </generos>
           </faixa>
         </faixas>
       </album>
     </discografia>
     <biografia>
-      <par>bioPar</par>
+      <par>
+        Walk The Moon (styled WALK THE MOON) is an American rock band based in Cincinnati, Ohio. Lead singer Nicholas Petricca started the band in 2006, while a student at Kenyon College, deriving the band's name from the song "Walking on the Moon" by The Police. The group independently released their debut studio album, i want, i want, in November 2010, receiving airplay for the track "Anna Sun" on multiple Alternative radio stations. Along with the success of Anna Sun, Alt. Nation named them a band you need to know for the Summer of 2012. Influential music blog Neon Gold helped to break the band in January 2011, calling Anna Sun "the kind of stuff British A and R dreams, and major label bidding wars, are made of."
+      </par>
+      <par>
+        In February 2011, they signed to RCA Records and in June 2012 released their first major label studio album, Walk the Moon which includes a re-recorded version of Anna Sun from i want!, i want!, which was song of the summer at least two years in a row. In December 2014, the band released their second major-label studio album, Talking Is Hard. This album includes the song "Shut Up and Dance," which hit number 4 on the Billboard Hot 100 and reached number one on the Billboard Rock Songs chart and Billboard Alternative Songs chart. Ryan Seed of Billboard gave "Shut Up and Dance" four and a half stars out of five.
+      </par>
     </biografia>
   </banda>
-
+  <banda nome="Kaleo" imagem="kaleo.jpg">
+    <links>
+      <link site="Wikipedia" logo="wikipediaLogo.jpg" url="https://en.wikipedia.org/wiki/Kaleo_(band)" />
+      <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/user/Kaleoofficial?spfreload=1" />
+      <link site="Kaleo Site" logo="KaleoLogo.jpg" url="http://www.officialkaleo.com/" />
+    </links>
+    <membros>
+      <membro nome="JJ Julius Son" foto="jj_Kaleo.jpg" dataEntrada="2012" dataSaida="Present">
+        <funcao>lead vocals</funcao>
+        <funcao>rhythm guitar</funcao>
+        <funcao>piano</funcao>
+      </membro>
+      <membro nome="Rubin Pollock" foto="rubin_Kaleo.jpg" dataEntrada="2012" dataSaida="Present">
+        <funcao>lead guitar</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+      <membro nome="Daniel Kristjansson" foto="daniel_Kaleo.jpg" dataEntrada="2012" dataSaida="Present">
+        <funcao>bass</funcao>
+      </membro>
+      <membro nome="David Antonsson" foto="david_Kaleo.jpg" dataEntrada="2012" dataSaida="Present">
+        <funcao>drums</funcao>
+        <funcao>percussion</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+    </membros>
+    <discografia>
+      <album titulo="A/B" imagem="ab_Kaleo.jpg" ano="2016" editora="Elektra">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/B-Kaleo/dp/B01EU0HIVO" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/br/album/a-b/id1107254993" />
+        </links>
+        <faixas>
+          <faixa titulo="No Good" duracao="246">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=HC6QJsxRypQ" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="No Good" duracao="246">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=HC6QJsxRypQ" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Way Down We Go" duracao="219">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=0-7IHOXkiV8" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Broken Bones" duracao="245">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=NOletMMI0B4" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Blues</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Broken Bones" duracao="245">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=NOletMMI0B4" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Blues</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Glass House" duracao="241">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=shSKvEp3HFo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Hot Blood" duracao="218">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=p6PuTFmn_ds" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="All The Pretty Girls" duracao="269">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=FNwgOkl5nRY" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Blues</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Automobile" duracao="186">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1bloF1LHgUVvPJLxrzxgu7" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=zcUYLAc6tZo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Blues</genero>
+              <genero>Country</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Vor í Vaglaskógi" duracao="277">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2OdpZeTpnbqPqBrclk2pib" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=Da5qQD_RpEQ" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Blues</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Save Yourself" duracao="273">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2AwPXDmMeUJGt2Ro5Ea10G" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=oCi0RHLrauU" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Blues</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="I Can't Go On Without You" duracao="377">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=jfNOdsvMke4" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Rock</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+    </discografia>
+    <biografia>
+      <par>
+        Kaleo is an Icelandic blues/rock band that formed at Mosfellsbær in 2012. It consists of lead vocalist and guitarist JJ Julius Son (Jökull Júlíusson), drummer David Antonsson, bassist Daniel Kristjansson, and lead guitarist Rubin Pollock. They have released two studio albums, Kaleo (2013) and A/B (2016), as well as an EP, Glasshouse (2013). A/B has sold over 175,000 albums worldwide. One of the singles from A/B, "Way Down We Go", has been sold over 500,000 times in the US and reached #1 on the Billboard Alternative Chart on August 20, 2016.
+      </par>
+      <par>
+        The group has made multiple appearances on late night television shows including Conan, Jimmy Kimmel Live!, and Late Night with Seth Meyers. Their songs have been heard on many other television shows including Orange is the New Black, Blindspot, Suits, Vinyl, Grey's Anatomy, Empire, The Leftovers, Frequency, Supergirl, Lucifer (TV series), "Longmire (TV Series)", The Vampire Diaries, and Frontier. "Way Down We Go" was featured in a no7 Skincare ad in the UK and in the second trailer for the film Logan.
+      </par>
+    </biografia>
+  </banda>
+  <banda nome="Of Monsters And Men" imagem="omam.jpg">
+    <links>
+      <link site="Wikipedia" logo="wikipediaLogo.jpg" url="https://en.wikipedia.org/wiki/Of_Monsters_and_Men" />
+      <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/user/OfMonstersAndMenVEVO" />
+      <link site="OMAM Site" logo="omamLogo.jpg" url="http://www.ofmonstersandmen.com/" />
+    </links>
+    <membros>
+      <membro nome="Nanna Bryndís Hilmarsdóttir" foto="nana_OMAM.jpg" dataEntrada="2010" dataSaida="Present">
+        <funcao>lead vocals</funcao>
+        <funcao>acoustic guitar</funcao>
+        <funcao>piano</funcao>
+      </membro>
+      <membro nome="Ragnar Þórhallsson" foto="ragnar_OMAM.jpg" dataEntrada="2010" dataSaida="Present">
+        <funcao>lead vocals</funcao>
+        <funcao>acoustic guitar</funcao>
+        <funcao>melodica</funcao>
+        <funcao>glockenspiel</funcao>
+      </membro>
+      <membro nome="Brynjar Leifsson" foto="brynjar_OMAM.jpg" dataEntrada="2010" dataSaida="Present">
+        <funcao>lead guitar</funcao>
+        <funcao>acoustic guitar</funcao>
+        <funcao>baritone guitar</funcao>
+        <funcao>12-string acoustic guitar</funcao>
+        <funcao>melodica</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+      <membro nome="Kristján Páll Kristjánsson" foto="kris_OMAM.jpg" dataEntrada="2010" dataSaida="Present">
+        <funcao>bass</funcao>
+        <funcao>acoustic bass guitar</funcao>
+        <funcao>egg shaker</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+      <membro nome="Arnar Rósenkranz Hilmarsson" foto="arnar_OMAM.jpg" dataEntrada="2010" dataSaida="Present">
+        <funcao>drums</funcao>
+        <funcao>percussion</funcao>
+        <funcao>melodica</funcao>
+        <funcao>glockenspiel</funcao>
+        <funcao>accordion</funcao>
+        <funcao>keyboard</funcao>
+        <funcao>piano</funcao>
+        <funcao>acoustic guitar</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+      <membro nome="Árni Guðjónsson" foto="arni_OMAM.jpg" dataEntrada="2010" dataSaida="2012">
+        <funcao>accordion</funcao>
+        <funcao>piano</funcao>
+        <funcao>organ</funcao>
+        <funcao>keyboards</funcao>
+        <funcao>backing vocals</funcao>
+      </membro>
+    </membros>
+    <discografia>
+      <album titulo="My Head Is An Animal" imagem="headIsAnAnimal_OMAM.jpg" ano="2012" editora="Republic">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/My-Head-Animal-Monsters-Men/dp/B007DIQC90" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/us/album/my-head-is-an-animal/id509345651" />
+        </links>
+        <faixas>
+          <faixa titulo="Dirty Paws" duracao="278">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=mCHUw7ACS8o" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="King and Lionheart" duracao="273">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/310d8Vawp5kYDYrGrrTAzl" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=A76a_LNIYwE" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Mountain Sound" duracao="211">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=qt7ox1M_XG4" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Slow and Steady" duracao="301">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=uRyRymflxtU" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="From Finner" duracao="223">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/16oGsGvhNhTihlZAYLp2wm" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=H7Gr6HBMDu0" />
+            </links>
+            <generos>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Little Talks" duracao="226">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=ghb6eDopW8I" />
+            </links>
+            <generos>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Six Weeks" duracao="334">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/29uPSxuWuR6Hr1SUu2Cw6z" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=18Gyci5tw74" />
+            </links>
+            <generos>
+              <genero>Rock</genero>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Love Love Love" duracao="232">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="hthttps://open.spotify.com/track/3o1cohFfwd57rAvrbyVE5e" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=beiPP_MGz6I" />
+            </links>
+            <generos>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Your Bones" duracao="249">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3ewKQAIFCLDk0mbhV0HjWE" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=wXUloVYbchg" />
+            </links>
+            <generos>
+              <generos>Rock</generos>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Sloom" duracao="283">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=FubvitXV_zM" />
+            </links>
+            <generos>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Lake House" duracao="275">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2TjLRCgnOwgNtmZ38OJ6pj" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=tBkkplOiSjQ" />
+            </links>
+            <generos>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Yellow Light" duracao="298">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/3hs6kchwaeSe967AMMYTrp" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=aBlKPLeLU_s" />
+            </links>
+            <generos>
+              <genero>Indie</genero>
+              <genero>Alternative</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+      <album titulo="Beneath The Skin" imagem="beneath_OMAM.jpg" ano="2015" editora="Republic">
+        <links>
+          <link site="Amazon" logo="amazonLogo.jpg" url="https://www.amazon.com/Beneath-Skin-Monsters-Men/dp/B00US7OSEY" />
+          <link site="iTunes" logo="iTunes.jpg" url="https://itunes.apple.com/ca/album/beneath-the-skin/id976392033" />
+        </links>
+        <faixas>
+          <faixa titulo="Crystals" duracao="243">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1znRsYfVoNkIrh4ZfLFCoM" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=XUClIslXKZo" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Human" duracao="233">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6k9eT9TVUBtFjWVr3TnCX3" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=0EnrFe3Zb6k" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Hunger" duracao="289">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/7ybA0k82VI9u0GYdNKtzpF" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=n106Qo0D948" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Wolves Without Teeth" duracao="238">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2w8cJaVndSM5hPTiCzpQ0b" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=VAI5GSyXMjA" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Empire" duracao="460">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/6nT4NFFH5nbXleO1FiJNhu" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=H2lzxGcbz-g" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Slow Life" duracao="343">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/55pjgpQYWItjE2356fEFFY" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=XeZRJbB3_00" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Organs" duracao="271">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/18EMlNlh7EMtw2jbu78WPk" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=hJZDHW6txk4" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Black Water" duracao="253">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1Jx5IdnXAJCKZ8EuczL5gX" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=AILsB9G8qEw" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="Thousand Eyes" duracao="240">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/2ulUHKORKH5Dfjg6CIFMLH" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=wylkSUS9Ofs" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="I Of The Storm" duracao="276">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/1y26LUkQmDtLvuy5xJZkVF" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=tlCkafSYNJI" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+          <faixa titulo="We Sink" duracao="261">
+            <links>
+              <link site="Spotify" logo="spotify.jpg" url="https://open.spotify.com/track/5Rme54e3v7rZkx3v8FkXLZ" />
+              <link site="YouTube" logo="youtube.jpg" url="https://www.youtube.com/watch?v=dFRywBkXgdA" />
+            </links>
+            <generos>
+              <genero>Alternative</genero>
+              <genero>Indie</genero>
+              <genero>Folk</genero>
+            </generos>
+          </faixa>
+        </faixas>
+      </album>
+    </discografia>
+    <biografia>
+      <par>
+        Of Monsters and Men is a five-member band from Reykjavík, Iceland, formed in 2010. The members are lead singer/guitarist Nanna Bryndís Hilmarsdóttir, co-singer-guitarist Ragnar "Raggi" Þórhallsson, guitarist Brynjar Leifsson, drummer Arnar Rósenkranz Hilmarsson and bassist Kristján Páll Kristjánsson. The band won the Músíktilraunir in 2010, an annual battle of the bands competition in Iceland. In 2011, Of Monsters and Men released an EP titled Into the Woods. The band's 2011 debut album My Head Is an Animal, reached the No.1 position in Australia, Iceland, Ireland and the U.S. Rock and Alternative Charts, while peaking at No. 6 on the U.S. Billboard 200 album chart, No. 3 in the UK, and Top 20 of most European charts and Canada. Its lead single "Little Talks" was an international success, reaching the Top 10 in most music charts in Europe, including No. 1 in Ireland and Iceland, and No. 1 on U.S. Alternative Songs.
+      </par>
+      <par>
+        Of Monsters and Men won the 2013 European Border Breakers Awards.
+      </par>
+    </biografia>
+  </banda>
+  
 </bandas>
 
 <!--
@@ -468,6 +1234,7 @@
 		<links>
 			<link site="Wikipedia" logo="wikipediaLogo.jpg" url="" />
 			<link site="YouTube" logo="youtube.jpg" url="" />
+      <link site="" logo="banda.jpg" url="" />
 		</links>
 		<membros>
 			<membro nome="" foto="" dataEntrada="" dataSaida="">
